@@ -2,7 +2,7 @@
   "name": "carouselreact",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://<giorgosgggggg>.github.io/restaurantwebsite",
+  "homepage": "https://giorgosgggggg.github.io/carousel",
   "dependencies": {
     "@material-ui/core": "^4.12.2",
     "@material-ui/icons": "^4.11.2",
