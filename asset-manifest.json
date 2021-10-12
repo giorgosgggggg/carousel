@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/restaurantwebsite/static/css/main.6ca77435.chunk.css",
+    "main.js": "/restaurantwebsite/static/js/main.319bcc95.chunk.js",
+    "main.js.map": "/restaurantwebsite/static/js/main.319bcc95.chunk.js.map",
+    "runtime-main.js": "/restaurantwebsite/static/js/runtime-main.f8474214.js",
+    "runtime-main.js.map": "/restaurantwebsite/static/js/runtime-main.f8474214.js.map",
+    "static/js/2.53187136.chunk.js": "/restaurantwebsite/static/js/2.53187136.chunk.js",
+    "static/js/2.53187136.chunk.js.map": "/restaurantwebsite/static/js/2.53187136.chunk.js.map",
+    "index.html": "/restaurantwebsite/index.html",
+    "static/css/main.6ca77435.chunk.css.map": "/restaurantwebsite/static/css/main.6ca77435.chunk.css.map",
+    "static/js/2.53187136.chunk.js.LICENSE.txt": "/restaurantwebsite/static/js/2.53187136.chunk.js.LICENSE.txt",
+    "static/media/geneva.94903bda.jpg": "/restaurantwebsite/static/media/geneva.94903bda.jpg",
+    "static/media/melbourne.3ac0d15c.jpg": "/restaurantwebsite/static/media/melbourne.3ac0d15c.jpg",
+    "static/media/osaka.3acb2cf2.jpg": "/restaurantwebsite/static/media/osaka.3acb2cf2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8474214.js",
+    "static/js/2.53187136.chunk.js",
+    "static/css/main.6ca77435.chunk.css",
+    "static/js/main.319bcc95.chunk.js"
+  ]
+}
